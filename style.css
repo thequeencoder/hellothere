@@ -1,0 +1,101 @@
+body{
+    background-color: #94D0CC;
+    margin:0px;
+    text-align: center;
+}
+.bg{
+    opacity:0.9;
+    width: 40%;
+}
+.name{
+    text-align: center;
+    margin: 0px;
+    position: relative;
+    top:100px;
+    font-family: 'WindSong', cursive;
+    color:#F29191;
+}
+.img-rainbow{
+    width: 400px;
+    height:300px;
+    position: absolute;
+    right:0px;
+}
+.cloud{
+    position: absolute;
+    top:300px;
+    left:200px;
+    width: 200px;
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+p{
+    font-family: monospace;
+    color: green;
+    font-size: 15px;
+    line-height: 2;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.immi{
+border-radius: 50%;
+width: 300px;
+}
+
+hr{
+    border: dotted #7C83FD 6px;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.btn{
+   font-family: 'WindSong', cursive; 
+   border-radius: 20px;
+   background-color: #F29191;
+   border: none;
+   color: white;
+   padding: 5px 25px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size:25px;
+   margin: 9px 5px;
+   cursor: pointer;
+  
+}
+.bottom-container{
+    background-color: #F29191;
+    height: 150px;
+    line-height: 3;
+}
+.footer-link{
+    font-family:'Amatic SC', cursive ;
+    color:green ;
+    font-size: 30px;
+    margin: 5px;
+}
+.intro{
+    width: 600px;
+    margin: auto;
+}
+.middle-container{
+   margin: auto;
+}
+.contact-msg{
+    margin: 40px auto 60px;
+}
+a:hover{
+    color: white;
+}
+
